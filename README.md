@@ -3,7 +3,7 @@ This project is an UNMAINTAINED, UNPOLISHED work in progress.
 
 # Stable Totem - A GUI for Diffusion Models
 
-Stable Totem is a user-friendly desktop application for generating images from text prompts using diffusion models like Stable Diffusion. It provides a simple, intuitive interface for beginners while offering powerful, granular control for advanced users.
+Stable Totem is a user-friendly desktop application for generating images from text prompts using diffusion models like Stable Diffusion. It provides a simple, intuitive interface for beginners while offering a few, more advanced options.
 
 The goal is to streamline the image generation process, manage model presets, and keep your generated art organized, all within a single, self-contained application.
 
